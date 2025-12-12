@@ -1,0 +1,26 @@
+{
+  "name": "watch_distance_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sujalogy/watch_distance_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sujalogy/watch_distance_server/issues"
+  },
+  "homepage": "https://github.com/Sujalogy/watch_distance_server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.1"
+  }
+}
